@@ -46,4 +46,4 @@ The following is a list of the most important specifications of the system as de
 
 ## Credits
 
-First prototype designed and assembled by Ben Liao in late 2023 to mid-2024 (completed August 2024). Contributors to the this first iteration included Logan Horowitz, Nathan Biesterfeld, Nathan Miles Ellis, and Robert Pilawa.
+First prototype designed and assembled by Ben Liao in late 2023 to mid 2024 (completed August 2024). Contributors to this first iteration included Logan Horowitz, Nathan Biesterfeld, Nathan Miles Ellis, and Robert Pilawa.
