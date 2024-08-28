@@ -1,10 +1,10 @@
 # High Voltage Enclosure
 
-This Github repo contains all of the design files (both mechanical and electrical) as well as extensive documentation for the high voltage safety enclosure. It is meant to be living and not used simply as a reference. Any updates to the design should be uploaded to the Github, along with any necessary updates to the documentation files. Keeping these files up-to-date is important, especially since new high voltage enclosures or maintenance / part replacement on existing enclosures may require the files to be used again at any given time (unlike former research projects, which will be used as references but more likely than not will never be built again).
+This Github repo contains all of the design files (both mechanical and electrical) as well as extensive documentation for the high voltage safety enclosure. It is meant to be living and not used simply as a reference. Any updates to the design should be uploaded to the repository, along with any necessary updates to the documentation files. Keeping these files up-to-date is important, especially since new high voltage enclosures or maintenance / part replacement on existing enclosures may require the files to be used again at any given time (unlike former research projects, which will be used as references but more likely than not will never be built again).
 
 ## Overview
 
-The high voltage safety enclosure is an assembly designed to protect someone in the event of a catastrophic mechanical failure of a converter under test or improper use of electrical equipment during a test which would otherwise result in the possibility of the person touching something at high voltage. Thus, the enclosure consists of the following parts:
+The high voltage safety enclosure is an assembly designed to protect someone in the event of a catastrophic mechanical failure of a converter under test or improper use of electrical equipment during a test which would otherwise result in the possibility of the person touching something at high voltage. The enclosure consists of the following parts:
 
 - A **cover** which can be lowered to cover a portion of the lab bench and raised to allow access to the test setup
 - A **latching mechanism** which holds the cover in the raised position
@@ -12,7 +12,7 @@ The high voltage safety enclosure is an assembly designed to protect someone in 
 - An **HV Electrical Box** which contains electronics to operate the high voltage contactors and bleeder resistors on the input side of the converter under test
 - An **Auxiliary HV Electrical Box** which is an __optional__ assembly containing electronics to operate bleeder resistors on the output side of the converter under test
 
-The cover protects against catastraphic mechanical failure and against unintentional contact between a foreign object and the converter under test. The electrical boxes and button assembly ensure that the converter under test can only be energized (i.e. connected to the power supply) when the cover is down; when the cover is up, bleeder resistors are automatically connected across the input to bleed any large input capacitors that may be energized (and, if the auxiliary HV Electrical Box is used, bleeder resistors are automatically connected across the output to bleed any large output capacitors as well).
+The cover protects a person against catastraphic mechanical failure and against unintentional contact between a foreign object and the converter under test. The electrical boxes and button assembly ensure that the converter under test can only be energized (i.e. connected to the power supply) when the cover is down; when the cover is up, bleeder resistors are automatically connected across the input to bleed any large input capacitors that may be energized (and, if the auxiliary HV Electrical Box is used, bleeder resistors are automatically connected across the output to bleed any large output capacitors as well).
 
 ## Repository Structure
 
