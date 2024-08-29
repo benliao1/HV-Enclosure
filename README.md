@@ -1,6 +1,6 @@
 # High Voltage Enclosure
 
-This Github repo contains all of the design files (both mechanical and electrical) as well as extensive documentation for the high voltage safety enclosure. It is meant to be living and not used simply as a reference. Any updates to the design should be uploaded to the repository, along with any necessary updates to the documentation files. Keeping these files up-to-date is important, especially since new high voltage enclosures or maintenance / part replacement on existing enclosures may require the files to be used again at any given time (unlike former research projects, which will be used as references but more likely than not will never be built again).
+This git repository contains all of the design files (both mechanical and electrical) as well as extensive documentation for the high voltage safety enclosure. It is meant to be living and not used simply as a reference. Any updates to the design should be uploaded to the repository, along with any necessary updates to the documentation files. Keeping these files up-to-date is important, especially since new high voltage enclosures or maintenance / part replacement on existing enclosures may require the files to be used again at any given time (unlike former research projects, which will be used as references but more likely than not will never be built again).
 
 ## Overview
 
@@ -16,7 +16,7 @@ The cover protects a person against catastraphic mechanical failure and against 
 
 ## Repository Structure
 
-The following is a brief overview of where to find various files and components in this repository.
+The following is a guide to where various files and components are located in this repository.
 
 - The **mechanical** folder contains all of the CAD models of nearly every component used in the mechanical portion of the HV enclosure. Since the enclosure was designed in Solidworks, all CAD files are `.sldprt`, `.sldasm`, or `.step` files. Notably, this folder does **not include** any bolts, nuts, or L brackets used in the cover, and does **not include** the gate latch used in the latching mechanism. Below is a list of the kinds of files that can be found here:
 	- All 8020 beams used in the cover and electrical boxes
