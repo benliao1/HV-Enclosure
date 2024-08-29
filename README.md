@@ -27,6 +27,10 @@ The following is a brief overview of where to find various files and components 
 	- **HV Board**: this board connects the power supply and the converter under test. It contains the high-voltage JFETs that connect/disconnect the bleeder resistors across the input of the converter, as well as mounting holes for the contactors which electrically connect/disconnet the power supply from the converter under test.
 	- **Auxiliary HV Board**: this board connects the converter under test with the load. It contains high-voltage JFETs that connect/disconnect the bleeder resistors across the output of the converter.
 	- **Button Board**: this board houses the lever switch which detects when the cover is closed, which is sent to the Main Board.
+- The **production** folder contains all of the files that will be uploaded to various supplier websites for custom fabrication:
+	- The `.STL` file of the button board holder model
+	- The `.DXF` files for all of the acrylic panels
+	- The `.DXF` files for all of the aluminum heat sinks
 - The **docs** folder contains more documentation and useful reference material:
 	- BOMs for the mechanical and electrical components used in the HV enclosure (as well as suppliers of these components)
 	- Assembly instructions for the HV enclosure
