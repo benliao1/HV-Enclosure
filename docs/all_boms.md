@@ -79,9 +79,25 @@ The BOMs for these two boards are the same.
 
 ## Entire Enclosure
 
+The following is a list of BOMs to make one high voltage enclosure. There may be some small items missing, as I (Ben) did not ever order everything all at once to make the enclosure... please update this if necessary!
+
 ### JLCPCB
 
+| Part Name    | Quantity |
+|--------------|----------|
+| Button Board | 1        |
+| Main Board   | 1        |
+| HV Board     | 1        |
+| Aux HV Board | 1        |
+
 ### OSH Stencil
+
+The HV Board and Aux HV Board have the same stencil.
+
+| Part Name             | Quantity |
+|-----------------------|----------|
+| Main Board            | 1        |
+| HV Board/Aux HV Board | 1        |
 
 ### Digikey
 
@@ -89,8 +105,46 @@ The BOMs for these two boards are the same.
 
 ### Xometry
 
+| Part Name           | Quantity |
+|---------------------|----------|
+| Button board holder | 1        |
+
 ### Sendcutsend
+
+| Part Name                                                      | Quantity |
+|----------------------------------------------------------------|----------|
+| Acrylic cover top panel                                        | 1        |
+| Acrylic cover side panel                                       | 2        |
+| Acrylic high voltage electrical box bottom panel               | 1        |
+| Acrylic high voltage electricral box side panel                | 2        |
+| Acrylic high voltage electrical box front panel                | 1        |
+| Acrylic high voltage electrical box back panel                 | 1        |
+| Acrylic auxiliary high voltage electrical box bottom panel     | 1        |
+| Acrylic auxiliary high voltage electrical box side panel       | 2        |
+| Acrylic auxiliary high voltage electrical box front/back panel | 2        |
+| Aluminum high voltage electrical box bottom heat sink          | 2        |
+| Aluminum high voltage electrical box side heat sink            | 2        |
+| Aluminum auxiliary high voltage electrical box heat sink       | 1        |
 
 ### McMaster-Carr
 
+## Home Improvement Store
+
+Wood and screws are used to secure the gate latch to the top shelf. These are most easily bought from a home improvement store.
+
+| Part Name   | Quantity |
+|-------------|----------|
+| Wood Screws | 4-5      |
+| 2x4 beam    | 1        |
+
 ### Amazon
+
+| Part Name                    | Quantity    | Amazon Link                                                                                                        |
+|------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------|
+| Nylon spacers (small)        | 48 (1 pack) | [here](https://www.amazon.com/dp/B009OLQ5DW?psc=1)                                                                 |
+| Nylon spacers (large)        | 8 (1 pack)  | [here](https://www.amazon.com/dp/B009OLQTVU?psc=1)                                                                 |
+| 20 series metal handle       | 1           | [here](https://www.amazon.com/gp/product/B07NQ5WHW9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)              |
+| 20 series L brackets         | 1 pack      | [here](https://www.amazon.com/dp/B0855V2JV3)                                                                       |
+| 120V-12V AD-DC converter, 2A | 1           | [here](https://www.amazon.com/dp/B0852HX9HV)                                                                       |
+| Gate latch                   | 1           | [here](https://www.amazon.com/HILLMASTER-Upgrade-Self-Locking-Automatic-Fasteners/dp/B08DSCGGL4/ref=sr_1_5?sr=8-5) |
+| JST wire set                 | 1 set       | [here](https://www.amazon.com/dp/B09DBHG6NW)                                                                       |
