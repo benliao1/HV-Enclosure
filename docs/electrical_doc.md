@@ -4,6 +4,10 @@ This document contains information on the design process for the electrical port
 
 **It should be noted that much of the electronics is actually explained in the Altium schematics. Please read those for very detailed explanations of how the electrical circuitry actually works.** Thus, there will not be any documentation in this document explaining how the boards works.
 
+## Structure of `electrical` Folder
+
+The structure of this folder should be relatively self-exlanatory. Each of the four PCBs has its own Altium PCB Project, containing a schematic file, a layout file, and (with the exception of the Button Board) a populated smart BOM file for convenience. The two integrated libraries `HV_Box_IntLib.IntLib` and `Load_Bank_New_IntLib.IntLib` need to both be installed into your Altium workspace to properly open the files. Apologies for the fact that there's two integrated libraries -- I (Ben) didn't really know how they worked when I started this project so I used both a new integrated library created just for this project as well as components from a previous project I did.
+
 ## Schematic Rules and Net Classes
 
 The schematics were made very carefully with a mind towards ease of understanding, good organization, and self-documentation. Generally, logic and power flow from left to right, top to bottom. Each section is demarcated with thick dark red boxes, and with a comment explaining the purpose and various quirks (if any) of that particular section.
@@ -16,8 +20,8 @@ Since all the PCBs (except the Button Board) have sections which handle differen
 
 The three net classes are also assigned colors to make them easy to identify in both the schematic and the layout:
 
-- "Low Voltage" class nets and blankets are colored ![yellow](https://placehold.co/15x15/fffe01/fffe01.png)
-- "Isolated" class nets and blankets are colored ![blue](https://placehold.co/15x15/6e6eff/6e6eff.png)
-- "High Voltage" class nets and blankets are colored ![red](https://placehold.co/15x15/ff6f6f/ff6f6f.png)
+- "Low Voltage" class nets and blankets are colored yellow ![yellow](https://placehold.co/15x15/fffe01/fffe01.png)
+- "Isolated" class nets and blankets are colored blue ![blue](https://placehold.co/15x15/6e6eff/6e6eff.png)
+- "High Voltage" class nets and blankets are colored red ![red](https://placehold.co/15x15/ff6f6f/ff6f6f.png)
 
-##  
+## Design Considerations
