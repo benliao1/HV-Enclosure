@@ -79,7 +79,7 @@ The BOMs for these two boards are the same.
 
 ## Entire Enclosure
 
-The following is a list of BOMs to make one high voltage enclosure. There may be some small items missing, as I (Ben) did not ever order everything all at once to make the enclosure... please update this if necessary!
+The following is a list of BOMs to make one high voltage enclosure. There may be some small items missing, especially in the order for McMaster, since I (Ben) did not ever order everything all at once to make the enclosure... please update this if necessary! I tried my best to make it as accurate as possible by reading receipts, but I may have missed a couple things or miscounted how many I used.
 
 ### JLCPCB
 
@@ -101,7 +101,26 @@ The HV Board and Aux HV Board have the same stencil.
 
 ### Digikey
 
+
+
 ### 8020.net
+
+The number of T nuts may be slightly off. Please correct if necessary.
+
+| Part Name                                | Quantity | 8020 Link                             |
+|------------------------------------------|----------|---------------------------------------|
+| 100 cm 20 series beam                    | 2        | [here](https://8020.net/20-2020.html) |
+| 61.6 cm 20 series beam                   | 2        | "                                     |
+| 6 cm 20 series beam                      | 2        | "                                     |
+| 25.4 cm 20 series beam                   | 2        | "                                     |
+| 90 cm 20 series beam                     | 1        | "                                     |
+| 25 cm 20 series beam                     | 4        | "                                     |
+| 9.4 cm 20 series beam                    | 4        | "                                     |
+| 15 cm 20 series beam                     | 1        | "                                     |
+| 20 cm 20 series beam                     | 4        | "                                     |
+| 6.9 cm 20 series beam                    | 4        | "                                     |
+| 20 series economy T nuts                 | 119      | [here](https://8020.net/14122.html)   |
+| 20 series gusseted L brackets, no guides | 8        | [here](https://8020.net/14059.html)   |
 
 ### Xometry
 
@@ -128,7 +147,7 @@ The HV Board and Aux HV Board have the same stencil.
 
 ### McMaster-Carr
 
-## Home Improvement Store
+### Home Improvement Store
 
 Wood and screws are used to secure the gate latch to the top shelf. These are most easily bought from a home improvement store.
 
@@ -144,7 +163,8 @@ Wood and screws are used to secure the gate latch to the top shelf. These are mo
 | Nylon spacers (small)        | 48 (1 pack) | [here](https://www.amazon.com/dp/B009OLQ5DW?psc=1)                                                                 |
 | Nylon spacers (large)        | 8 (1 pack)  | [here](https://www.amazon.com/dp/B009OLQTVU?psc=1)                                                                 |
 | 20 series metal handle       | 1           | [here](https://www.amazon.com/gp/product/B07NQ5WHW9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)              |
-| 20 series L brackets         | 1 pack      | [here](https://www.amazon.com/dp/B0855V2JV3)                                                                       |
+| 20 series L brackets         | 14 (1 pack) | [here](https://www.amazon.com/dp/B0855V2JV3)                                                                       |
+| 20 series hinge              | 1 pack      | [here](https://www.amazon.com/LUORNG-Aluminum-Profile-Install-Extrusion/dp/B0B3J6YB91/ref=sr_1_62?sr=8-62)         |
 | 120V-12V AD-DC converter, 2A | 1           | [here](https://www.amazon.com/dp/B0852HX9HV)                                                                       |
 | Gate latch                   | 1           | [here](https://www.amazon.com/HILLMASTER-Upgrade-Self-Locking-Automatic-Fasteners/dp/B08DSCGGL4/ref=sr_1_5?sr=8-5) |
 | JST wire set                 | 1 set       | [here](https://www.amazon.com/dp/B09DBHG6NW)                                                                       |
