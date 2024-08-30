@@ -1,6 +1,6 @@
 # Mechanical Design Documentation
 
-This document contains information on the design process for the mechanical portion of the enclosure, notes on working on and editing the files, and the parameters that can be changed (for example, to make the box wider or narrower).
+This document contains information on the design process for the mechanical portion of the enclosure, notes on working on and editing the files/design, and the parameters that can be changed (for example, to make the box wider or narrower).
 
 ## Structure of `mechanical` Folder
 

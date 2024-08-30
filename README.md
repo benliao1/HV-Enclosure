@@ -31,6 +31,7 @@ The following is a guide to where various files and components are located in th
 	- The `.STL` file of the button board holder model
 	- The `.DXF` files for all of the acrylic panels
 	- The `.DXF` files for all of the aluminum heat sinks
+	- The `.ZIP` files containing the gerbers for all of the PCBs
 - The **docs** folder contains more documentation and useful reference material:
 	- BOMs for the mechanical and electrical components used in the HV enclosure (as well as suppliers of these components)
 	- Assembly instructions for the HV enclosure
