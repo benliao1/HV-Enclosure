@@ -70,12 +70,87 @@ The BOMs for these two boards are the same.
 | Res. 51 1%                          | 4        | [here](https://www.digikey.com/en/products/detail/yageo/RC0603FR-0751RL/727281)                                                                                                                                                                                                                                                                                                                                           |
 | Res. 10k 1%                         | 1        | [here](https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880)                                                                                                                                                                                                                                                                                                                                           |
 
-## Cover (Including Hinge Assembly and Gate Latch)
+## Cover (Including Hinge Assembly and Gate Latch, and Button Board Hardware)
+
+| Part Name                     | Quantity    | Supplier        | Supplier Link (if applicable)                                                                              |
+|-------------------------------|-------------|-----------------|------------------------------------------------------------------------------------------------------------|
+| 100 cm 20 series beam         | 2           | 8020            | [here](https://8020.net/20-2020.html)                                                                      |
+| 61.6 cm 20 series beam        | 2           | "               | "                                                                                                          |
+| 6 cm 20 series beam           | 2           | "               | "                                                                                                          |
+| 25.4 cm 20 series beam        | 2           | "               | "                                                                                                          |
+| 90 cm 20 series beam          | 1           | "               | "                                                                                                          |
+| 15 cm 20 series beam          | 1           | "               | "                                                                                                          |
+| 20 series economy T nuts      | 59          | "               | [here](https://8020.net/14122.html)                                                                        |
+| Button board holder           | 1           | Xometry         | N/A                                                                                                        |
+| Acrylic cover top panel       | 1           | Sendcutsend     | N/A                                                                                                        |
+| Acrylic cover side panel      | 2           | "               | N/A                                                                                                        |
+| Gate latch                    | 1           | Amazon          | [here](https://www.amazon.com/dp/B09DBHG6NW)                                                               |
+| 20 series hinge               | 1 pack      | "               | [here](https://www.amazon.com/LUORNG-Aluminum-Profile-Install-Extrusion/dp/B0B3J6YB91/ref=sr_1_62?sr=8-62) |
+| 20 series L brackets          | 14 (1 pack) | "               | [here](https://www.amazon.com/dp/B0855V2JV3)                                                               |
+| 20 series metal handle        | 1           | "               | [here](https://www.amazon.com/gp/product/B07NQ5WHW9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)      |
+| M5-0.8 10mm flat head screw   | 8 (1 pack)  | McMaster-Carr   | [here](https://www.mcmaster.com/91263A832/)                                                                |
+| M5-0.8 8mm button head screw  | 24 (1 pack) | "               | [here](https://www.mcmaster.com/92095A207/)                                                                |
+| M5-0.8 10mm button head screw | 17 (1 pack) | "               | [here](https://www.mcmaster.com/92095A208/)                                                                |
+| 3-56 5/16" pan head screw     | 2 (1 pack)  | "               | [here](https://www.mcmaster.com/91772A032/)                                                                |
+| 3-56 hex nut                  | 2 (1 pack)  | "               | [here](https://www.mcmaster.com/90480A041/)                                                                |
+| Button Board                  | 1           | JLCPCB, Digikey | N/A                                                                                                        |
 
 <a id="electrical_box_boms"></a>
 ## High Voltage Electrical Box
 
+| Part Name                                             | Quantity    | Supplier        | Supplier Link (if applicable)                                                                               |
+|-------------------------------------------------------|-------------|-----------------|-------------------------------------------------------------------------------------------------------------|
+| 25 cm 20 series beam                                  | 4           | 8020            | [here](https://8020.net/20-2020.html)                                                                       |
+| 9.4 cm 20 series beam                                 | 4           | "               | "                                                                                                           |
+| 20 series economy T nuts                              | 30          | "               | [here](https://8020.net/14122.html)                                                                         |
+| 20 series gusseted L brackets no guides               | 4           | "               | [here](https://8020.net/14059.html)                                                                         |
+| Acrylic high voltage electrical box bottom panel      | 1           | Sendcutsend     | N/A                                                                                                         |
+| Acrylic high voltage electrical box side panel        | 2           | "               | N/A                                                                                                         |
+| Acrylic high voltage electrical box front panel       | 1           | "               | N/A                                                                                                         |
+| Acrylic high voltage electrical box back panel        | 1           | "               | N/A                                                                                                         |
+| Aluminum high voltage electrical box bottom heat sink | 2           | "               | N/A                                                                                                         |
+| Aluminum high voltage electrical box side heat sink   | 2           | "               | N/A                                                                                                         |
+| HV Board                                              | 1           | JLCPCB, Digikey | N/A                                                                                                         |
+| Main Board                                            | 1           | JLCPCB, Digikey | N/A                                                                                                         |
+| Bleed resistors                                       | 4           | Digikey         | [here](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/HSC100390RJ/5587207)      |
+| Contactors                                            | 2           | "               | [here](https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B88269X3230C11/14543070)            |
+| Contactor connector accesory                          | 2           | "               | [here](https://www.digikey.com/en/products/detail/B88269X9990C101/495-B88269X9990C101-ND/21822888?curr=usd) |
+| Nylon spacers (small)                                 | 16 (1 pack) | Amazon          | [here](https://www.amazon.com/dp/B009OLQ5DW?psc=1)                                                          |
+| Nylon spacers (large)                                 | 8 (1 pack)  | "               | [here](https://www.amazon.com/dp/B009OLQTVU?psc=1)                                                          |
+| 120V-12V AC-DC converter, 2A                          | 1           | "               | [here](https://www.amazon.com/dp/B0852HX9HV)                                                                |
+| M5-0.8 8mm button head screw                          | 4 (1 pack)  | McMaster-Carr   | [here](https://www.mcmaster.com/92095A207/)                                                                 |
+| M5-0.8 10mm button head screw                         | 26 (1 pack) | "               | [here](https://www.mcmaster.com/92095A208/)                                                                 |
+| #4-40 1" standoffs                                    | 2           | "               | [here](https://www.mcmaster.com/91920A537/)                                                                 |
+| #4-40 3" standoffs                                    | 4           | "               | [here](https://www.mcmaster.com/91780A049/)                                                                 |
+| #8-32 3/4" screws                                     | 12 (1 pack) | "               | [here](https://www.mcmaster.com/90272A197/)                                                                 |
+| #8-32 1/2" screws                                     | 8 (1 pack)  | "               | [here](https://www.mcmaster.com/91772A194/)                                                                 |
+| #8-32 hex nuts                                        | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90480A009/)                                                                 |
+| Aluminum L brackets                                   | 4           | "               | [here](https://www.mcmaster.com/8809T62/)                                                                   |
+| M6-1.0 **20mm** hex screw                             | 8           | "               | [here](https://www.mcmaster.com/90386A102/)                                                                 |
+| M6-1.0 hex nut                                        | 8           | "               | [here](https://www.mcmaster.com/90591A151/)                                                                 |
+
 ## Auxiliary High Voltage Electrical Box
+
+| Part Name                                                      | Quantity    | Supplier        | Supplier Link (if applicable)                                                                          |
+|----------------------------------------------------------------|-------------|-----------------|--------------------------------------------------------------------------------------------------------|
+| 20 cm 20 series beam                                           | 4           | 8020            | [here](https://8020.net/20-2020.html)                                                                  |
+| 6.9 cm 20 series beam                                          | 4           | "               | "                                                                                                      |
+| 20 series economy T nuts                                       | 30          | "               | [here](https://8020.net/14122.html)                                                                    |
+| 20 series gusseted L brackets no guides                        | 4           | "               | [here](https://8020.net/14059.html)                                                                    |
+| Acrylic auxiliary high voltage electrical box bottom panel     | 1           | Sendcutsend     | N/A                                                                                                    |
+| Acrylic auxiliary high voltage electrical box side panel       | 2           | "               | N/A                                                                                                    |
+| Acrylic auxiliary high voltage electrical box front/back panel | 2           | "               | N/A                                                                                                    |
+| Aluminum auxliary high voltage electrical box heat sink        | 1           | "               | N/A                                                                                                    |
+| Aux HV Board                                                   | 1           | JLCPCB, Digikey | N/A                                                                                                    |
+| Bleed resistors                                                | 4           | Digikey         | [here](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/HSC100390RJ/5587207) |
+| Nylon spacers (small)                                          | 32 (1 pack) | Amazon          | [here](https://www.amazon.com/dp/B009OLQ5DW?psc=1)                                                     |
+| M5-0.8 8mm button head screw                                   | 4 (1 pack)  | McMaster-Carr   | [here](https://www.mcmaster.com/92095A207/)                                                            |
+| M5-0.8 10mm button head screw                                  | 26 (1 pack) | "               | [here](https://www.mcmaster.com/92095A208/)                                                            |
+| #4-40 2" standoffs                                             | 4           | "               | [here](https://www.mcmaster.com/91780A174/)                                                            |
+| #8-32 3/4" screws                                              | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90272A197/)                                                            |
+| #8-32 hex nuts                                                 | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90480A009/)                                                            |
+| M6-1.0 **20mm** hex screw                                      | 4           | "               | [here](https://www.mcmaster.com/90386A102/)                                                            |
+| M6-1.0 hex nut                                                 | 4           | "               | [here](https://www.mcmaster.com/90591A151/)                                                            |
 
 ## Entire Enclosure
 
@@ -104,7 +179,7 @@ The HV Board and Aux HV Board have the same stencil.
 | Part Name                           | Quantity | Digikey Link                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lever switch                        | 1        | [here](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2FS-FL-N/4753388)                                                                                                                                                                                                                                                                                                                        |
-| JST 2-pin connector                 | 4        | [here](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-SM4-TB/926641 )                                                                                                                                                                                                                                                                                                                            |
+| JST 2-pin connector                 | 4        | [here](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-SM4-TB/926641)                                                                                                                                                                                                                                                                                                                             |
 | JST 3-pin connector                 | 6        | [here](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-PH-SM4-TB/926642)                                                                                                                                                                                                                                                                                                                             |
 | Phoenix connector 2x1 small         | 2        | [here](https://www.digikey.com/en/products/detail/phoenix-contact/1990009/950922)                                                                                                                                                                                                                                                                                                                                         |
 | 12 V barrel jack                    | 1        | [here](https://www.digikey.com/en/products/detail/adam-tech/ADC-H-010-1/9831182)                                                                                                                                                                                                                                                                                                                                          |
@@ -205,6 +280,6 @@ Wood and screws are used to secure the gate latch to the top shelf. These are mo
 | 20 series metal handle       | 1           | [here](https://www.amazon.com/gp/product/B07NQ5WHW9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)              |
 | 20 series L brackets         | 14 (1 pack) | [here](https://www.amazon.com/dp/B0855V2JV3)                                                                       |
 | 20 series hinge              | 1 pack      | [here](https://www.amazon.com/LUORNG-Aluminum-Profile-Install-Extrusion/dp/B0B3J6YB91/ref=sr_1_62?sr=8-62)         |
-| 120V-12V AD-DC converter, 2A | 1           | [here](https://www.amazon.com/dp/B0852HX9HV)                                                                       |
+| 120V-12V AC-DC converter, 2A | 1           | [here](https://www.amazon.com/dp/B0852HX9HV)                                                                       |
 | Gate latch                   | 1           | [here](https://www.amazon.com/HILLMASTER-Upgrade-Self-Locking-Automatic-Fasteners/dp/B08DSCGGL4/ref=sr_1_5?sr=8-5) |
 | JST wire set                 | 1 set       | [here](https://www.amazon.com/dp/B09DBHG6NW)                                                                       |
