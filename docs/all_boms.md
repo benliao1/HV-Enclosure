@@ -72,31 +72,35 @@ The BOMs for these two boards are the same.
 
 ## Cover (Including Hinge Assembly and Gate Latch, and Button Board Hardware)
 
-| Part Name                     | Quantity    | Supplier        | Supplier Link (if applicable)                                                                              |
-|-------------------------------|-------------|-----------------|------------------------------------------------------------------------------------------------------------|
-| 100 cm 20 series beam         | 2           | 8020            | [here](https://8020.net/20-2020.html)                                                                      |
-| 61.6 cm 20 series beam        | 2           | "               | "                                                                                                          |
-| 6 cm 20 series beam           | 2           | "               | "                                                                                                          |
-| 25.4 cm 20 series beam        | 2           | "               | "                                                                                                          |
-| 90 cm 20 series beam          | 1           | "               | "                                                                                                          |
-| 15 cm 20 series beam          | 1           | "               | "                                                                                                          |
-| 20 series economy T nuts      | 59          | "               | [here](https://8020.net/14122.html)                                                                        |
-| Button board holder           | 1           | Xometry         | N/A                                                                                                        |
-| Acrylic cover top panel       | 1           | Sendcutsend     | N/A                                                                                                        |
-| Acrylic cover side panel      | 2           | "               | N/A                                                                                                        |
-| Gate latch                    | 1           | Amazon          | [here](https://www.amazon.com/dp/B09DBHG6NW)                                                               |
-| 20 series hinge               | 1 pack      | "               | [here](https://www.amazon.com/LUORNG-Aluminum-Profile-Install-Extrusion/dp/B0B3J6YB91/ref=sr_1_62?sr=8-62) |
-| 20 series L brackets          | 14 (1 pack) | "               | [here](https://www.amazon.com/dp/B0855V2JV3)                                                               |
-| 20 series metal handle        | 1           | "               | [here](https://www.amazon.com/gp/product/B07NQ5WHW9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)      |
-| M5-0.8 10mm flat head screw   | 8 (1 pack)  | McMaster-Carr   | [here](https://www.mcmaster.com/91263A832/)                                                                |
-| M5-0.8 8mm button head screw  | 24 (1 pack) | "               | [here](https://www.mcmaster.com/92095A207/)                                                                |
-| M5-0.8 10mm button head screw | 17 (1 pack) | "               | [here](https://www.mcmaster.com/92095A208/)                                                                |
-| 3-56 5/16" pan head screw     | 2 (1 pack)  | "               | [here](https://www.mcmaster.com/91772A032/)                                                                |
-| 3-56 hex nut                  | 2 (1 pack)  | "               | [here](https://www.mcmaster.com/90480A041/)                                                                |
-| Button Board                  | 1           | JLCPCB, Digikey | N/A                                                                                                        |
+| Part Name                     | Quantity    | Supplier         | Supplier Link (if applicable)                                                                              |
+|-------------------------------|-------------|------------------|------------------------------------------------------------------------------------------------------------|
+| 100 cm 20 series beam         | 2           | 8020             | [here](https://8020.net/20-2020.html)                                                                      |
+| 61.6 cm 20 series beam        | 2           | "                | "                                                                                                          |
+| 6 cm 20 series beam           | 2           | "                | "                                                                                                          |
+| 25.4 cm 20 series beam        | 2           | "                | "                                                                                                          |
+| 90 cm 20 series beam          | 1           | "                | "                                                                                                          |
+| 15 cm 20 series beam          | 1           | "                | "                                                                                                          |
+| 20 series economy T nuts      | 59          | "                | [here](https://8020.net/14122.html)                                                                        |
+| Button board holder           | 1           | Xometry          | N/A                                                                                                        |
+| Acrylic cover top panel       | 1           | Sendcutsend      | N/A                                                                                                        |
+| Acrylic cover side panel      | 2           | "                | N/A                                                                                                        |
+| Gate latch                    | 1           | Amazon           | [here](https://www.amazon.com/dp/B09DBHG6NW)                                                               |
+| 20 series hinge               | 1 pack      | "                | [here](https://www.amazon.com/LUORNG-Aluminum-Profile-Install-Extrusion/dp/B0B3J6YB91/ref=sr_1_62?sr=8-62) |
+| 20 series L brackets          | 14 (1 pack) | "                | [here](https://www.amazon.com/dp/B0855V2JV3)                                                               |
+| 20 series metal handle        | 1           | "                | [here](https://www.amazon.com/gp/product/B07NQ5WHW9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)      |
+| M5-0.8 10mm flat head screw   | 8 (1 pack)  | McMaster-Carr    | [here](https://www.mcmaster.com/91263A832/)                                                                |
+| M5-0.8 8mm button head screw  | 24 (1 pack) | "                | [here](https://www.mcmaster.com/92095A207/)                                                                |
+| M5-0.8 10mm button head screw | 17 (1 pack) | "                | [here](https://www.mcmaster.com/92095A208/)                                                                |
+| 3-56 5/16" pan head screw     | 2 (1 pack)  | "                | [here](https://www.mcmaster.com/91772A032/)                                                                |
+| 3-56 hex nut                  | 2 (1 pack)  | "                | [here](https://www.mcmaster.com/90480A041/)                                                                |
+| Button Board                  | 1           | JLCPCB, Digikey  | N/A                                                                                                        |
+| Wood Screws                   | 4-5         | ex. ACE Hardware | N/A                                                                                                        |
+| Wood 2x4 beam                 | 1           | "                | N/A                                                                                                        |
 
 <a id="electrical_box_boms"></a>
 ## High Voltage Electrical Box
+
+The length of the M6 bolts used to connect the HV Board with the contactors is around 20 mm but I (Ben) could be wrong. I bought the ones used for the prototype from ACE hardware and it's unclear exactly how long they were. Please correct if necessary. The length of the M6 bolts used to connect the HV Board with the bleed resistors can be adjusted if necessary. Additionally, the 1/4-20 screws for securing the side heat sink to the aluminum L bracket may not be 1/2" long, they might be even shorter than that. You cannot use the screws provided with the L bracket there because they are too long and would hit the acrylic and Main Board.
 
 | Part Name                                             | Quantity    | Supplier        | Supplier Link (if applicable)                                                                               |
 |-------------------------------------------------------|-------------|-----------------|-------------------------------------------------------------------------------------------------------------|
@@ -124,12 +128,15 @@ The BOMs for these two boards are the same.
 | #4-40 3" standoffs                                    | 4           | "               | [here](https://www.mcmaster.com/91780A049/)                                                                 |
 | #8-32 3/4" screws                                     | 12 (1 pack) | "               | [here](https://www.mcmaster.com/90272A197/)                                                                 |
 | #8-32 1/2" screws                                     | 8 (1 pack)  | "               | [here](https://www.mcmaster.com/91772A194/)                                                                 |
-| #8-32 hex nuts                                        | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90480A009/)                                                                 |
+| #8-32 hex nuts                                        | 24 (1 pack) | "               | [here](https://www.mcmaster.com/90480A009/)                                                                 |
+| 1/4-20 **1/2"** screws                                | 4 (1 pack)  | "               | [here](https://www.mcmaster.com/90272A537/)                                                                 |
 | Aluminum L brackets                                   | 4           | "               | [here](https://www.mcmaster.com/8809T62/)                                                                   |
 | M6-1.0 **20mm** hex screw                             | 8           | "               | [here](https://www.mcmaster.com/90386A102/)                                                                 |
 | M6-1.0 hex nut                                        | 8           | "               | [here](https://www.mcmaster.com/90591A151/)                                                                 |
 
 ## Auxiliary High Voltage Electrical Box
+
+The length of the M6 bolts connecting the Auxiliary HV Board with the bleed resistors can be adjusted if necessary.
 
 | Part Name                                                      | Quantity    | Supplier        | Supplier Link (if applicable)                                                                          |
 |----------------------------------------------------------------|-------------|-----------------|--------------------------------------------------------------------------------------------------------|
@@ -149,14 +156,26 @@ The BOMs for these two boards are the same.
 | #4-40 2" standoffs                                             | 4           | "               | [here](https://www.mcmaster.com/91780A174/)                                                            |
 | #8-32 3/4" screws                                              | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90272A197/)                                                            |
 | #8-32 hex nuts                                                 | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90480A009/)                                                            |
-| M6-1.0 **20mm** hex screw                                      | 4           | "               | [here](https://www.mcmaster.com/90386A102/)                                                            |
+| M6-1.0 hex screw                                               | 4           | "               | [here](https://www.mcmaster.com/90386A102/)                                                            |
 | M6-1.0 hex nut                                                 | 4           | "               | [here](https://www.mcmaster.com/90591A151/)                                                            |
 
-## Entire Enclosure
+## Wiring
+
+JST wires are used to connect the various PCBs in the system, which need to be made manually. Here are the BOMs for those wires:
+
+| Part Name             | Quantity | Supplier         | Supplier Link (if applicable)                |
+|-----------------------|----------|------------------|----------------------------------------------|
+| 22-gauge wire, black  | 1        | ex. ACE Hardware | N/A                                          |
+| 22-gauge wire, red    | 1        | "                | N/A                                          |
+| 22-gauge wire, yellow | 1        | "                | N/A                                          |
+| 12-gauge wire, black  | 1        | "                | N/A                                          |
+| JST wire set          | 1 set    | Amazon           | [here](https://www.amazon.com/dp/B09DBHG6NW) |
+
+# Entire Enclosure
 
 The following is a list of BOMs to make one high voltage enclosure. There may be some small items missing, especially in the order for McMaster, since I (Ben) did not ever order everything all at once to make the enclosure... please update this if necessary! I tried my best to make it as accurate as possible by reading receipts, but I may have missed a couple things or miscounted how many I used.
 
-### JLCPCB
+## JLCPCB
 
 | Part Name    | Quantity |
 |--------------|----------|
@@ -165,7 +184,7 @@ The following is a list of BOMs to make one high voltage enclosure. There may be
 | HV Board     | 1        |
 | Aux HV Board | 1        |
 
-### OSH Stencil
+## OSH Stencil
 
 The HV Board and Aux HV Board have the same stencil.
 
@@ -174,7 +193,7 @@ The HV Board and Aux HV Board have the same stencil.
 | Main Board            | 1        |
 | HV Board/Aux HV Board | 1        |
 
-### Digikey
+## Digikey
 
 | Part Name                           | Quantity | Digikey Link                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -218,7 +237,7 @@ The HV Board and Aux HV Board have the same stencil.
 | Res. 0 jumper 2512                  | 2        | [here](https://www.digikey.com/en/products/detail/bourns-inc/CR2512-J-000ELF/2345096)                                                                                                                                                                                                                                                                                                                                     |
 | Res. 10k 1%                         | 3        | [here](https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880)                                                                                                                                                                                                                                                                                                                                           |
 
-### 8020.net
+## 8020.net
 
 The number of T nuts may be slightly off. Please correct if necessary.
 
@@ -237,13 +256,13 @@ The number of T nuts may be slightly off. Please correct if necessary.
 | 20 series economy T nuts                 | 119      | [here](https://8020.net/14122.html)   |
 | 20 series gusseted L brackets, no guides | 8        | [here](https://8020.net/14059.html)   |
 
-### Xometry
+## Xometry
 
 | Part Name           | Quantity |
 |---------------------|----------|
 | Button board holder | 1        |
 
-### Sendcutsend
+## Sendcutsend
 
 | Part Name                                                      | Quantity |
 |----------------------------------------------------------------|----------|
@@ -260,18 +279,40 @@ The number of T nuts may be slightly off. Please correct if necessary.
 | Aluminum high voltage electrical box side heat sink            | 2        |
 | Aluminum auxiliary high voltage electrical box heat sink       | 1        |
 
-### McMaster-Carr
+## McMaster-Carr
 
-### Home Improvement Store
+| Part Name                     | Quantity    | McMaster-Carr Link                          |
+|-------------------------------|-------------|---------------------------------------------|
+| M5-0.8 8mm button head screw  | 32 (1 pack) | [here](https://www.mcmaster.com/92095A207/) |
+| M5-0.8 10mm button head screw | 69 (1 pack) | [here](https://www.mcmaster.com/92095A208/) |
+| M5-0.8 10mm flat head screw   | 8 (1 pack)  | [here](https://www.mcmaster.com/91263A832/) |
+| M6-1.0 **20mm** hex screw     | 12 (1 pack) | [here](https://www.mcmaster.com/90386A102/) |
+| M6-1.0 hex nut                | 12 (1 pack) | [here](https://www.mcmaster.com/90591A151/) |
+| #8-32 1/2" screws             | 8 (1 pack)  | [here](https://www.mcmaster.com/91772A194/) |
+| #8-32 3/4" screws             | 28 (1 pack) | [here](https://www.mcmaster.com/90272A197/) |
+| #8-32 hex nuts                | 40 (1 pack) | [here](https://www.mcmaster.com/90480A009/) |
+| #4-40 1" standoffs            | 2           | [here](https://www.mcmaster.com/91920A537/) |
+| #4-40 2" standoffs            | 4           | [here](https://www.mcmaster.com/91780A174/) |
+| #4-40 3" standoffs            | 4           | [here](https://www.mcmaster.com/91780A049/) |
+| 3-56 5/16" pan head screw     | 2 (1 pack)  | [here](https://www.mcmaster.com/91772A032/) |
+| 3-56 hex nut                  | 2 (1 pack)  | [here](https://www.mcmaster.com/90480A041/) |
+| 1/4-20 **1/2"** screws        | 4 (1 pack)  | [here](https://www.mcmaster.com/90272A537/) |
+| Aluminum L brackets           | 4           | [here](https://www.mcmaster.com/8809T62/)   |
 
-Wood and screws are used to secure the gate latch to the top shelf. These are most easily bought from a home improvement store.
+## Home Improvement Store
 
-| Part Name   | Quantity |
-|-------------|----------|
-| Wood Screws | 4-5      |
-| 2x4 beam    | 1        |
+Wood and screws are used to secure the gate latch to the top shelf. These are most easily bought from a home improvement store. Wires can normally be found at home improvement stores as well.
 
-### Amazon
+| Part Name             | Quantity |
+|-----------------------|----------|
+| Wood Screws           | 4-5      |
+| 2x4 beam              | 1        |
+| 22-gauge wire, black  | 1        |
+| 22-gauge wire, red    | 1        |
+| 22-gauge wire, yellow | 1        |
+| 12-gauge wire, black  | 1        |
+
+## Amazon
 
 | Part Name                    | Quantity    | Amazon Link                                                                                                        |
 |------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------|
