@@ -4,7 +4,7 @@ This document attempts to walk through the process of assembling the system with
 
 ## General Notes
 
-- The economy T square nuts used for the 8020 pieces must be inserted before the channel that is cut into the 8020 profile that holds them in place is closed (i.e. they are not roll-in nuts). Before securing two 8020 profiles together, make sure all of the required T nuts have been placed in the profile. To move the T nuts within the profile so that they line up with holes in the acrylic, or L brackets.
+- The economy T square nuts used for the 8020 pieces must be inserted before the channel that is cut into the 8020 profile that holds them in place is closed (i.e. they are not roll-in nuts). Before securing two 8020 profiles together, make sure all of the required T nuts have been placed in the profile. A small allen key can be very useful to move the T nuts within the profile so that they line up with holes in the acrylic or L brackets.
 - M5-0.8 8mm screws are used to connect the L brackets with the 20 series beams.
 - M5-0.8 10mm screws are used to connect the acrylic panels with the 20 series beams.
 - **Do not** overtighten screws and nuts that hold acrylic to the 20 series beams. The acrylic will crack! The acrylic is not a structurally important part of the cover by design, so the bolts do not need to be overtightened. Tighten until snug and that should be fine.
@@ -20,15 +20,15 @@ The Button Board should be assembled by hand. Ensure that the lever switch is or
 
 ## Step 2: The Cover
 
-Assemble the section shown in the image below, with annotations indicating the lengths of the 20 series beams, the locations of the 4 L brackets, and the locations of the M5 bolts that are bolted into the cover top acrylic panel. Make sure that before closing the rectangle of 20 series beams, you put three T nuts into the inside edge of the 61.6 cm beams for securing the side panels at the end. Also make sure that you put four T nuts in the back of the top 100 cm beam for connection with the hinges.
+Assemble the section shown in the image below, with annotations indicating the lengths of the 20 series beams (in red), the locations of the 4 L brackets (in blue), and the locations of the M5 bolts that are bolted into the cover top acrylic panel (in green). The purple arrows indicate the locations of the holes where the side panels are to be screwed in. The purple circle indicate the locations of 4 T nuts that need to inserted into the back of the top 100 cm beam which will accomodate the screws for the hinges in a later step.
 
 ![cover-diagram](https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/cover.png)
 
-Assemble the two hinge assemblies, connect them with the electronics support bar, and attach the button board assembly as shown in the annotated image below. The 3D-printed button board holder should be connected to the 15 cm beam with 10mm M5 bolts. Use the 3-56 bolts to secure the Button Board to the button board holder into the top and bottom holes of the button board holder (the three middle holes are for the 3 leads of the lever switch). The lengths of the beams are annotated on the diagram, along with the locations of the L brackets. The purple circles indicate the locations of T nuts for connection with the electrical boxes later; four on the front of the beam, and four on the back of the beam. Make sure that you use 4 M5-0.8 10mm flat-head screws to attach the hinges to the the 6 cm beams.
+Assemble the two hinge assemblies, connect them with the electronics support bar, and attach the button board assembly as shown in the annotated image below. The 3D-printed button board holder should be connected to the 15 cm beam with 10mm M5 bolts. Use the #3-56 bolts to secure the Button Board to the button board holder into the top and bottom holes of the button board holder (the three middle holes are for the 3 leads of the lever switch). The lengths of the beams are annotated on the diagram, along with the locations of the L brackets. The purple circles indicate the locations of T nuts for connection with the electrical boxes later; four on the front of the beam, and four on the back of the beam. Make sure that you use 4 M5-0.8 10mm **flat-head screws** to attach the hinges to the the 6 cm beams.
 
 ![hinge-assembly-diagram](https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/hinge_assembly.png)
 
-Connect the hinge assembly to the cover with the remaining M5-0.8 10mm flat-head screws. Step 2 is complete when the assembly looks like the image below.
+Connect the hinge assembly to the cover with the remaining M5-0.8 10mm **flat-head screws**. Step 2 is complete when the assembly looks like the image below.
 
 ![cover-assembly-complete](https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/cover_assembly_complete.png)
 
@@ -42,7 +42,7 @@ Attach the bleeder resistor assemblies to the bottom acrylic panel. Ensure that 
 
 ![hv-electrical-box-1](https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/hv_electrical_box_1.png)
 
-Attach the contactors to the bottom acrylic panel. Use #8-32 screws (no nylon spacers necessary). Leave some play in the screws so that the position of the contactors can be adjusted to fit the HV Board PCB. Attach the four #4-40 3" standoffs to the bottom panel as well with #4-40 screws. When finished with this step, the box should look like this:
+Attach the contactors to the bottom acrylic panel. Use #8-32 screws (no nylon spacers necessary). Note the direction the contactors are placed (the port for the contactor connection accessory should be on the left side, looking from the front of the box). Leave some play in the screws so that the position of the contactors can be adjusted to fit the HV Board PCB. Attach the four #4-40 3" standoffs to the bottom panel as well with #4-40 screws. When finished with this step, the box should look like this:
 
 ![hv-electrical-box-2](https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/hv_electrical_box_2.png)
 
@@ -56,7 +56,7 @@ Left view:
 
 Attach the contactor connector accessories to the Main Board PCB, then attach the Main Board PCB to the acrylic front panel using the two #4-40 1" standoffs and #4-40 screws. Then, insert the contactor connector accessories into the ports on the side of the contactors. When finished with this step, the box should look something like this (of course, the front panel will not stand on its own like in the picture; you can lay it face-down for now):
 
-![hv-electrical-box-4]https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/hv_electrical_box_4.png)
+![hv-electrical-box-4](https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/hv_electrical_box_4.png)
 
 Push the head of the barrel jack output of the 120V-12V AC-DC converter through the large hole in the acrylic back panel and pull it through. Attach it to the Main Board PCB. Now, the box should look something like this (again, the front and back panels will not stand on their own like in the picture; you can lay both of the face-down for now):
 
@@ -104,6 +104,6 @@ This completes Step 4.
 
 Attach the boxes to the beam on the cover using the gusseted L brackets without guides from 8020.net. Below is an annotated diagram showing where the L brackets go:
 
-![boxes-to-beam-diagram]https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/boxes_to_cover_beam.png)
+![boxes-to-beam-diagram](https://raw.githubusercontent.com/benliao1/HV-Enclosure/master/docs/screenshots/boxes_to_cover_beam.png)
 
 This completes Step 5. The finished cover can now be mounted to the desk, and a gate latch fitted in a suitable place on the top shelf.
