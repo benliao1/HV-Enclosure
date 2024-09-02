@@ -33,7 +33,8 @@ The following is a guide to where various files and components are located in th
 	- The `.DXF` files for all of the aluminum heat sinks
 	- The `.ZIP` files containing the gerbers for all of the PCBs
 - The **docs** folder contains more documentation and useful reference material:
-	- BOMs for the mechanical and electrical components used in the HV enclosure (as well as suppliers of these components)
+	- BOMs for the mechanical and electrical components used in the HV enclosure (as well as the suppliers and supplier links of those components)
+	- What supplier manufacturing options were selected when ordering the parts for the HV enclosure
 	- Assembly instructions for the HV enclosure
 	- Documents describing what needed to be considered and what principles were followed throughout the design process
 	- All photos and screenshots used in the repository
