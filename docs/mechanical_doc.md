@@ -35,6 +35,10 @@ This section describes the functional considerations that were taken into accoun
 
 To makes a new 20 series beam length in Solidworks, go to `mechanical/parts/2020` and open `2020_base.SLDPRT`. Click on the Boss Extrude feature and edit the extrusion length as desired. Save the edited part as a new file and name it following the naming convention: `2020_<length>` where the length is in cm. For example, `2020_100` is 100 cm long. Lengths with decimals have dashes in replace of the period, e.g. `2020_25-4` for a beam 25.4 cm long.
 
+## Nylon Spacers
+
+Nylon spacers were used to separate the heat sinks and the acrylic panels because nylon has a higher melting temperature than acrylic and also resists thermal deformation below the melting temperature. Thus, in the event the bleed resistors and their heat sinks get extremely hot in an extreme use case, the nylon spacers will hopefully prevent the heat sinks from heating up the acrylic panels so much that they deform or otherwise cause structural damage to the high voltage electrical boxes.
+
 ## Allowable Dimension Adjustments
 
 The height of the enclosure cannot be easily changed as the angle the cover makes with the lab bench is set; changing the height of the enclosure (i.e. the distance between the first shelf and the lab bench) would require changes to both the height and width of the cover as well as the non-right angle in the acrylic cover side panel.

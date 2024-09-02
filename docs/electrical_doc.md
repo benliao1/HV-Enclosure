@@ -23,5 +23,3 @@ The three net classes are also assigned colors to make them easy to identify in 
 - "Low Voltage" class nets and blankets are colored yellow ![yellow](https://placehold.co/15x15/fffe01/fffe01.png)
 - "Isolated" class nets and blankets are colored blue ![blue](https://placehold.co/15x15/6e6eff/6e6eff.png)
 - "High Voltage" class nets and blankets are colored red ![red](https://placehold.co/15x15/ff6f6f/ff6f6f.png)
-
-## Design Considerations
