@@ -1,6 +1,8 @@
 # All BOMs
 
-This document contains tables of parts, supplier links, and other notes on all the parts used for the enclosure, first for the individual components, then by supplier for all the necessary components to build one enclosure compiled into a series of tables.
+This document contains Bills of Materials for the entire enclosure, organized in two different ways. The first section is a list of components needed to build each section of the enclosure (PCBs, Cover, High Voltage Electrical Box, Auxiliary High Voltage Electrical Box, Wiring). The second section is all of the components needed to build the entire enclosure organized by supplier (JLCPCB, OSH Stencil, Digikey, 8020.net, Xometry, Sendcutsend, McMaster-Carr, a home improvement or electronics store, and Amazon).
+
+# Section One (By Enclosure Section)
 
 ## PCBs
 
@@ -173,7 +175,7 @@ JST wires are used to connect the various PCBs in the system, which need to be m
 | 12-gauge wire, black  | 1        | "                | N/A                                          |
 | JST wire set          | 1 set    | Amazon           | [here](https://www.amazon.com/dp/B09DBHG6NW) |
 
-# Entire Enclosure
+# Section Two (By Supplier for Entire Enclosure)
 
 The following is a list of BOMs to make one high voltage enclosure, organized by supplier. There may be some small items missing, especially in the order for McMaster, since I (Ben) did not ever order everything all at once to make the enclosure... please update this if necessary! I tried my best to make it as accurate as possible by reading receipts, but I may have missed a couple things or miscounted how many I used.
 
@@ -297,8 +299,8 @@ The number of T nuts may be slightly off. Please correct if necessary.
 | #4-40 2" standoffs            | 4           | [here](https://www.mcmaster.com/91780A174/) |
 | #4-40 3" standoffs            | 4           | [here](https://www.mcmaster.com/91780A049/) |
 | #4-40 1/4" screws             | 20 (1 pack) | [here](https://www.mcmaster.com/91772A106/) |
-| 3-56 5/16" pan head screw     | 2 (1 pack)  | [here](https://www.mcmaster.com/91772A032/) |
-| 3-56 hex nut                  | 2 (1 pack)  | [here](https://www.mcmaster.com/90480A041/) |
+| #3-56 5/16" pan head screw    | 2 (1 pack)  | [here](https://www.mcmaster.com/91772A032/) |
+| #3-56 hex nut                 | 2 (1 pack)  | [here](https://www.mcmaster.com/90480A041/) |
 | 1/4-20 **1/2"** screws        | 4 (1 pack)  | [here](https://www.mcmaster.com/90272A537/) |
 | Aluminum L brackets           | 4           | [here](https://www.mcmaster.com/8809T62/)   |
 
