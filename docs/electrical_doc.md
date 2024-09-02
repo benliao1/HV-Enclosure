@@ -23,3 +23,20 @@ The three net classes are also assigned colors to make them easy to identify in 
 - "Low Voltage" class nets and blankets are colored yellow ![yellow](https://placehold.co/15x15/fffe01/fffe01.png)
 - "Isolated" class nets and blankets are colored blue ![blue](https://placehold.co/15x15/6e6eff/6e6eff.png)
 - "High Voltage" class nets and blankets are colored red ![red](https://placehold.co/15x15/ff6f6f/ff6f6f.png)
+
+## Connecting to the HV Board/Aux HV Board Phoenix Connectors
+
+The Phoenix connectors that will connect to the ones used on the HV Board and Aux HV Board is the one at [this Digikey link](https://www.digikey.com/en/products/detail/phoenix-contact/1969373/2526720).
+
+## Connecting Additional Current
+
+The current rating of the contactors is 150 A. The banana blugs are rated for 25 A each, and the Phoenix connector is rated for 76 A. Here are the different ways to connect to the board for different current regimes:
+
+- 0 A - 25 A: One set of banana plugs OR the Phoenix connector
+- 25 A - 50 A: Both sets of banana blugs OR the Phoenix connector
+- 50 A - 76 A: Phoenix connector
+- 76 A - 101 A: One set of banana plugs AND the Phoenix connector
+- 101 A - 126 A: Both sets of banana plugs AND the Phoenix connector
+- 126 A - 150 A: Both sets of banana plugs AND the Phoenix connector AND a thick wire screwed directly to the M6 bolt connected to the contactor terminals
+
+For current greater than 150 A, you will need to replace the contactor with one that can break higher current. Luckily, the manufacturer of the contactor used in the prototype makes contactors with higher rated currents in the same form factor, so that should be a quick swap-in if if desired. However, the PCBs were only designed to handle 150 A, so pushing the PCBs past 150 A could result in some overheating in the copper pours.
