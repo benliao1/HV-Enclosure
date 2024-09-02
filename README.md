@@ -2,6 +2,8 @@
 
 This git repository contains all of the design files (both mechanical and electrical) as well as extensive documentation for the high voltage safety enclosure. It is meant to be living and not used simply as a reference. Any updates to the design should be uploaded to the repository, along with any necessary updates to the documentation files. Keeping these files up-to-date is important, especially since new high voltage enclosures or maintenance / part replacement on existing enclosures may require the files to be used again at any given time (unlike former research projects, which will be used as references but more likely than not will never be built again).
 
+Note: **do NOT** make a new commit to the git repository while Solidworks is open!! Solidworks creates a bunch of temporary journal files and mod files while it is open which should not be committed to the repository.
+
 ## Overview
 
 The high voltage safety enclosure is an assembly designed to protect someone in the event of a catastrophic mechanical failure of a converter under test or improper use of electrical equipment during a test which would otherwise result in the possibility of the person touching something at high voltage. The enclosure consists of the following parts:
@@ -52,4 +54,4 @@ The following is a list of the most important specifications of the system as de
 
 ## Credits
 
-First prototype designed and assembled by Ben Liao in late 2023 to mid 2024 (completed August 2024). Contributors to this first iteration included Logan Horowitz, Nathan Biesterfeld, Nathan Miles Ellis, and Robert Pilawa.
+First prototype designed and assembled by Ben Liao in late 2023 to mid 2024 (completed August 2024). Contributors to this first iteration included Logan Horowitz, Nathan Biesterfeld, Nathan Miles Ellis, and Robert Pilawa. Original documentation written by Ben Liao.
