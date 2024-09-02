@@ -126,6 +126,7 @@ The length of the M6 bolts used to connect the HV Board with the contactors is a
 | M5-0.8 10mm button head screw                         | 26 (1 pack) | "               | [here](https://www.mcmaster.com/92095A208/)                                                                 |
 | #4-40 1" standoffs                                    | 2           | "               | [here](https://www.mcmaster.com/91920A537/)                                                                 |
 | #4-40 3" standoffs                                    | 4           | "               | [here](https://www.mcmaster.com/91780A049/)                                                                 |
+| #4-40 1/4" screws                                     | 12 (1 pack) | "               | [here](https://www.mcmaster.com/91772A106/)                                                                 |
 | #8-32 3/4" screws                                     | 12 (1 pack) | "               | [here](https://www.mcmaster.com/90272A197/)                                                                 |
 | #8-32 1/2" screws                                     | 8 (1 pack)  | "               | [here](https://www.mcmaster.com/91772A194/)                                                                 |
 | #8-32 hex nuts                                        | 24 (1 pack) | "               | [here](https://www.mcmaster.com/90480A009/)                                                                 |
@@ -154,6 +155,7 @@ The length of the M6 bolts connecting the Auxiliary HV Board with the bleed resi
 | M5-0.8 8mm button head screw                                   | 4 (1 pack)  | McMaster-Carr   | [here](https://www.mcmaster.com/92095A207/)                                                            |
 | M5-0.8 10mm button head screw                                  | 26 (1 pack) | "               | [here](https://www.mcmaster.com/92095A208/)                                                            |
 | #4-40 2" standoffs                                             | 4           | "               | [here](https://www.mcmaster.com/91780A174/)                                                            |
+| #4-40 1/4" screws                                              | 8 (1 pack)  | "               | [here](https://www.mcmaster.com/91772A106/)                                                            |
 | #8-32 3/4" screws                                              | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90272A197/)                                                            |
 | #8-32 hex nuts                                                 | 16 (1 pack) | "               | [here](https://www.mcmaster.com/90480A009/)                                                            |
 | M6-1.0 hex screw                                               | 4           | "               | [here](https://www.mcmaster.com/90386A102/)                                                            |
@@ -173,7 +175,7 @@ JST wires are used to connect the various PCBs in the system, which need to be m
 
 # Entire Enclosure
 
-The following is a list of BOMs to make one high voltage enclosure. There may be some small items missing, especially in the order for McMaster, since I (Ben) did not ever order everything all at once to make the enclosure... please update this if necessary! I tried my best to make it as accurate as possible by reading receipts, but I may have missed a couple things or miscounted how many I used.
+The following is a list of BOMs to make one high voltage enclosure, organized by supplier. There may be some small items missing, especially in the order for McMaster, since I (Ben) did not ever order everything all at once to make the enclosure... please update this if necessary! I tried my best to make it as accurate as possible by reading receipts, but I may have missed a couple things or miscounted how many I used.
 
 ## JLCPCB
 
@@ -294,6 +296,7 @@ The number of T nuts may be slightly off. Please correct if necessary.
 | #4-40 1" standoffs            | 2           | [here](https://www.mcmaster.com/91920A537/) |
 | #4-40 2" standoffs            | 4           | [here](https://www.mcmaster.com/91780A174/) |
 | #4-40 3" standoffs            | 4           | [here](https://www.mcmaster.com/91780A049/) |
+| #4-40 1/4" screws             | 20 (1 pack) | [here](https://www.mcmaster.com/91772A106/) |
 | 3-56 5/16" pan head screw     | 2 (1 pack)  | [here](https://www.mcmaster.com/91772A032/) |
 | 3-56 hex nut                  | 2 (1 pack)  | [here](https://www.mcmaster.com/90480A041/) |
 | 1/4-20 **1/2"** screws        | 4 (1 pack)  | [here](https://www.mcmaster.com/90272A537/) |
