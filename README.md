@@ -2,7 +2,7 @@
 
 This git repository contains all of the design files (both mechanical and electrical) as well as extensive documentation for the high voltage safety enclosure. It is meant to be living and not used simply as a reference. Any updates to the design should be uploaded to the repository, along with any necessary updates to the documentation files. Keeping these files up-to-date is important, especially since new high voltage enclosures or maintenance / part replacement on existing enclosures may require the files to be used again at any given time (unlike former research projects, which will be used as references but more likely than not will never be built again).
 
-Note: **do NOT** make a new commit to the git repository while Solidworks is open!! Solidworks creates a bunch of temporary journal files and mod files while it is open which should not be committed to the repository.
+Note: **Do NOT** make a new commit to this repository while Solidworks is open!! Solidworks creates a bunch of temporary journal files and mod files while it is open which should not be committed to the repository.
 
 ## Overview
 
@@ -14,7 +14,7 @@ The high voltage safety enclosure is an assembly designed to protect someone in 
 - An **HV Electrical Box** which contains electronics to operate the high voltage contactors and bleeder resistors on the input side of the converter under test
 - An **Auxiliary HV Electrical Box** which is an __optional__ assembly containing electronics to operate bleeder resistors on the output side of the converter under test
 
-The cover protects a person against catastraphic mechanical failure and against unintentional contact between a foreign object and the converter under test. The electrical boxes and button assembly ensure that the converter under test can only be energized (i.e. connected to the power supply) when the cover is down; when the cover is up, bleeder resistors are automatically connected across the input to bleed any large input capacitors that may be energized (and, if the auxiliary HV Electrical Box is used, bleeder resistors are automatically connected across the output to bleed any large output capacitors as well).
+The cover protects a person against catastrophic mechanical failure and against unintentional contact between a foreign object and the converter under test. The electrical boxes and button assembly ensure that the converter under test can only be energized (i.e. connected to the power supply) when the cover is down; when the cover is up, bleeder resistors are automatically connected across the input to bleed any large input capacitors that may be energized (and, if the auxiliary HV Electrical Box is used, bleeder resistors are automatically connected across the output to bleed any large output capacitors as well).
 
 ## Repository Structure
 

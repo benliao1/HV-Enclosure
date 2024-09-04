@@ -4,7 +4,7 @@ This document attempts to walk through the process of assembling the system with
 
 ## General Notes
 
-- The economy T square nuts used for the 8020 pieces must be inserted before the channel that is cut into the 8020 profile that holds them in place is closed (i.e. they are not roll-in nuts). Before securing two 8020 profiles together, make sure all of the required T nuts have been placed in the profile. A small allen key can be very useful to move the T nuts within the profile so that they line up with holes in the acrylic or L brackets.
+- The economy T square nuts used for the 8020 pieces must be inserted before the channel that is cut into the 8020 profile that holds them in place is closed (i.e. they are not roll-in nuts). Before securing two 8020 profiles together, make sure all of the required T nuts have been placed in the profile. A small allen key is very useful for moving the T nuts within the profile so that they line up with holes in the acrylic or L brackets.
 - M5-0.8 8mm screws are used to connect the L brackets with the 20 series beams.
 - M5-0.8 10mm screws are used to connect the acrylic panels with the 20 series beams.
 - **Do not** overtighten screws and nuts that hold acrylic to the 20 series beams. The acrylic will crack! The acrylic is not a structurally important part of the cover by design, so the bolts do not need to be overtightened. Tighten until snug and that should be fine.

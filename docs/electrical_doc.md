@@ -39,7 +39,7 @@ The current rating of the contactors is 150 A. The banana blugs are rated for 25
 - 101 A - 126 A: Both sets of banana plugs AND the Phoenix connector
 - 126 A - 150 A: Both sets of banana plugs AND the Phoenix connector AND a thick wire screwed directly to the M6 bolt connected to the contactor terminals
 
-For current greater than 150 A, you will need to replace the contactor with one that can break higher current. Luckily, the manufacturer of the contactor used in the prototype makes contactors with higher rated currents in the same form factor, so that should be a quick swap-in if if desired. However, the PCBs were only designed to handle 150 A, so pushing the PCBs past 150 A could result in some overheating in the copper pours.
+For current greater than 150 A, you will need to replace the contactor with one that can break higher current. Luckily, the manufacturer of the contactor used in the prototype makes contactors with higher rated currents in the same form factor, so that should be a quick swap-in if desired. However, the PCBs were only designed to handle 150 A, so pushing the PCBs past 150 A could result in some overheating in the copper pours.
 
 ## Contactors vs. Solid State Breakers
 
